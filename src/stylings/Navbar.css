@@ -1,0 +1,15 @@
+.Navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon{
+    color: #51E1ED;
+    font-size: x-large;
+    margin-top: 5px;
+}
+
+.color-blue{
+    color: #51E1ED;
+}
